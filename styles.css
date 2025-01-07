@@ -1,15 +1,37 @@
-.h1{
-	header-background-color:011e29;
+.body{
+	background-color: #f5f5f5;
 }
+.header{
+	background-color: #011e29;
+	color: white;
+	padding: 15px;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.container{
+	max-width:900px;
+	margin:0 auto;
+	padding: 20px;
+}
+
 .latest-news-section{
-	height:100px;
-	width:100px;
+	width:25%;
+	display: flex;
 	background-color: white;
-	text:black;
+	justify-content: space-between;
 	}
 .main-news-section{
-	
-}
+	width: 45%;
+	display: flex;
+	justify-content:space-between;
+	}
 .pictorial-news-section{
-	
+	width:100%;
+	height:auto;
+	margin-bottom: 10px;
+}
+ul{
+	list-style:disc;
+	paddding-left: 20px;
 }
