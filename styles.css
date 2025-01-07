@@ -6,7 +6,7 @@ main{
 	width:100vw;
 	display:flex;
 }
-.header{
+header{
 	background-color: #011e29;
 	color: white;
 	padding: 5px;
@@ -32,9 +32,12 @@ main{
 	justify-content:space-between;
 	}
 .pictorial-news-section{
-	width: 100%;
-	height: auto;
+	width: 50vw;
+	height: 50vw;
 	margin-bottom: 10px;
+	text-align:center;
+	border-radius:
+	
 }
 .ul{
 	list-style:disc;
