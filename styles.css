@@ -4,15 +4,15 @@
 .header{
 	background-color: #011e29;
 	color: white;
-	padding: 15px;
+	padding: 5px;
 	display:flex;
 	justify-content:space-between;
 	align-items:center;
 }
 .container{
-	max-width:900px;
-	margin:0 auto;
-	padding: 20px;
+	max-width:500px;
+	margin: 0 auto;
+	padding: 10px;
 }
 
 .latest-news-section{
@@ -27,8 +27,8 @@
 	justify-content:space-between;
 	}
 .pictorial-news-section{
-	width:100%;
-	height:auto;
+	width: 100%;
+	height: auto;
 	margin-bottom: 10px;
 }
 ul{
