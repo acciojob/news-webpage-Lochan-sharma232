@@ -1,3 +1,9 @@
 .h1{
 	header-background-color:011e29;
 }
+.latest-news-section{
+	height:100px;
+	width:100px;
+	background-color: white;
+	text:black;
+	}
